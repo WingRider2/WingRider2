@@ -1,24 +1,18 @@
-# 👋 Hi, I'm 김광민
+# 👋 김광민
 🎮 Unity 기반 게임 클라이언트 개발자
 
-## 🛠 Tech Stack
-- Unity / C# / DOTween / Addressables
-- ExcelDataReader / ScriptableObject
+## 🛠 기술스택
+- Unity / C#
 - Git / GitHub / Notion
+- Java / MySql / Python
+- 
+## 📂 프로젝트
+- [전지적 몬스터 시점]([링크](https://github.com/WingRider2/CodeLike))
 
-## 📂 Projects
-- [2D↔3D Roguelike](링크) - 뷰 전환, 풀링, HUD 연동
-- [Excel → SO Generator](링크) - 데이터 파이프라인 자동화
-- [Personal Puzzle Game](링크) - MVC, Async 적용
+## 📈 현재 관심사
+- Unity async/await
+- MVC등 자료구조
 
-## 📈 What I'm Learning
-- Unity 6 Awaitable
-- Shader 효과 (Grayscale, Post Processing)
-
-## ☕ Fun Fact
+## ☕ 취미
 스페셜티 커피를 좋아해서, 프로젝트 막힐 때는 드립으로 마음을 가라앉힙니다.
 
-## 📫 Contact
-- GitHub: [@wingramon](https://github.com/wingramon)
-- Notion Portfolio: (링크)
-- Email: (이메일)
