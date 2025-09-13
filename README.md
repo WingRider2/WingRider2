@@ -5,9 +5,9 @@
 - Unity / C#
 - Git / GitHub / Notion
 - Java / MySql / Python
-- 
+
 ## 📂 프로젝트
-- [전지적 몬스터 시점]([링크](https://github.com/WingRider2/CodeLike))
+- [전지적 몬스터 시점](https://github.com/WingRider2/CodeLike)
 
 ## 📈 현재 관심사
 - Unity async/await
