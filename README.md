@@ -4,7 +4,7 @@
 ## 🛠 기술스택
 - Unity / C#
 - Git / GitHub / Notion
-- Java / MySql / Python
+- c++ / Java / MySql / Python 
 
 ## 📂 프로젝트
 - [전지적 몬스터 시점](https://github.com/WingRider2/CodeLike)
