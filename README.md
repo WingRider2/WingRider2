@@ -12,7 +12,7 @@
 - [Superliminal(클론 프로젝트)](https://github.com/WingRider2/SpartaDungeon)
 - [방치형RPG](https://github.com/WingRider2/Unity_Hard)
 ## 📈 현재 관심사
-- Unity async/await
+- Unity async/await && Awaitable
 - MVC등 자료구조
 
 ## ☕ 취미
